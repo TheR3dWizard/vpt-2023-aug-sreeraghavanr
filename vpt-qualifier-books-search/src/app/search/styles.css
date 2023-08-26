@@ -125,3 +125,12 @@ body {
     flex-direction: column;
   }
 }
+
+/* Add a contrasting text color for the search input */
+.search-simple input[type="text"] {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-top: 10px;
+  color: #000; /* Add a contrasting color for the text */
+}
