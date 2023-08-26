@@ -1,0 +1,16 @@
+Search tips: https://openlibrary.org/search/howto
+
+
+
+Example queries:
+
+q.json: https://openlibrary.org/search.json?q=the+lord+of+the+rings
+
+title.json: https://openlibrary.org/search.json?title=the+lord+of+the+rings
+
+author.json: https://openlibrary.org/search.json?author=tolkien&sort=new
+
+qpage.json: https://openlibrary.org/search.json?q=the+lord+of+the+rings&page=2
+
+authorsearch.json: https://openlibrary.org/search/authors.json?q=twain
+
