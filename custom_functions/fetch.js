@@ -1,31 +1,32 @@
-// Function to fetch data from an API   
-  async function fetchData(url) {
-    const response = await fetch(url);
-    const data = await response.json();
-    return data;
+// Function to fetch data from an API
+async function fetchData(url) {
+  const response = await fetch(url);
+  const data = await response.json();
+  return data;
+}
+
+// Main function to call APIs sequentially
+async function callApis() {
+  try {
+    // Call the first API
+    const firstApiUrl =
+      "https://openlibrary.org/search.json?title=the+lord+of+the+rings";
+    const firstApiResponse = await fetchData(firstApiUrl);
+
+    // Extract the "seed" value from the first API response
+    const seed = firstApiResponse.docs[0].seed[0];
+    console.log("First API Response:", seed);
+
+    // Use the "seed" value to construct the URL for the second API
+    const secondApiUrl = `https://openlibrary.org${seed}.json`;
+    const secondApiResponse = await fetchData(secondApiUrl);
+
+    // Do something with the second API response
+    console.log("Second API Response:", secondApiResponse.title);
+  } catch (error) {
+    console.error("An error occurred:", error);
   }
-  
-  // Main function to call APIs sequentially
-  async function callApis() {
-    try {
-      // Call the first API
-      const firstApiUrl = 'https://openlibrary.org/search.json?title=the+lord+of+the+rings';
-      const firstApiResponse = await fetchData(firstApiUrl);
-  
-      // Extract the "seed" value from the first API response
-      const seed = firstApiResponse.docs[0].seed[0];
-      console.log('First API Response:', seed)
-  
-      // Use the "seed" value to construct the URL for the second API
-      const secondApiUrl = `https://openlibrary.org${seed}.json`;
-      const secondApiResponse = await fetchData(secondApiUrl);
-  
-      // Do something with the second API response
-      console.log('Second API Response:', secondApiResponse.title);
-    } catch (error) {
-      console.error('An error occurred:', error);
-    }
-  }
+}
 
 
   async function generalSearch(query) {
