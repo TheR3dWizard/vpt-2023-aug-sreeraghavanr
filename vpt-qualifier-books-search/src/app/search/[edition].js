@@ -1,15 +1,22 @@
-const BookPage = () => {
-  const searchResults = [
-    {
-      title: "my book",
-      publish_date: "march 2021",
-      authors: "me",
-      pub_year: "2021",
-      publisher: "not me",
-      isbn: "9788483835043",
-      line: "Hello Everyone",
-    },
-  ];
+import React from "react";
+import { useRouter } from "next/router";
+import { fetchData, BookDetails } from "./fetch";
+
+const BookPage = async () => {
+  //   const searchResults = [
+  //     {
+  //       title: "my book",
+  //       publish_date: "march 2021",
+  //       authors: "me",
+  //       pub_year: "2021",
+  //       publisher: "not me",
+  //       isbn: "9788483835043",
+  //       line: "Hello Everyone",
+  //     },
+  //   ];
+  const { edition } = router.query;
+  //   const router = useRouter();
+  const searchResults = await BookDetails(edition);
 
   return (
     <div className="book-page">

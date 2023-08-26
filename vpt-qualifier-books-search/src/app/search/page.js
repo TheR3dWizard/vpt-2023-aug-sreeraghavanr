@@ -6,7 +6,7 @@ import { useRouter } from "next/router";
 
 import { generalSearch, fetchData, BookDetails } from "./fetch";
 const SearchPage = () => {
-  const router = useRouter();
+  // const router = useRouter();
   const [searchResults, setSearchResults] = useState([]);
   const [simpleSearchQuery, setSimpleSearchQuery] = useState("");
   const handleSimpleSearch = async () => {
