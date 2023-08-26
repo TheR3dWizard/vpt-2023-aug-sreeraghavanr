@@ -137,5 +137,3 @@ async function callApis() {
         console.log(item);
   }
 
-
-    BookDetails('OL7353617M')
