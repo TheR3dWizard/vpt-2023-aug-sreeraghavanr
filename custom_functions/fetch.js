@@ -33,10 +33,9 @@
         const searchUrl = `https://openlibrary.org/search.json?q=${query}`;
         const searchResponse = await fetchData(searchUrl);
         docs = searchResponse.docs;
+        
         for(let i = 0;i<docs.length;i++){
-            const element = docs[i];
-            //query = `https://openlibrary.org${element}.json`;
-            // const response = await fetchData(query).then(response => response.json());
+            const element = element;
             item = {
                 title: element.title,
                 authors: element.author_name[0],
@@ -58,16 +57,28 @@
         docs = searchResponse.docs;
         for (let i = 0; i < docs.length; i++) {
             const element = docs[i];
-            if (title !== nul && docs[i].title == title) {
-                if (publisher !== null && publisher in docs[i].publisher) {
+            if (title !== null && element.title == title) {
+                if (publisher !== null && publisher in element.publisher) {
                   if (
                     pub_date !== null &&
-                    (pub_date in docs[i].publish_date || pub_date in docs[i].publish_year)
+                    (pub_date in element.publish_date || pub_date in element.publish_year)
                   ) {
+                    if(author !== null && author in element.author_name)
                     item = {
-                        title: element.title,
-                        publish_date: element.publish_date,
-                        //authors: getAuthor(element.authors[0].key),
+                        title: () => {
+                            if (title !== null && element.title == title){
+                                return element.title;
+                            }
+                        },
+                        publish_date: () => {
+                            if (
+                                pub_date !== null &&
+                                (pub_date in element.publish_date || pub_date in element.publish_year)
+                              ){
+                                return element.publish_date;
+                              }
+                        },
+                        authors: element.author_name[0],
                         pub_year: element.first_publish_year,
                     }
                     console.log(item);
@@ -83,6 +94,6 @@
 
 
   // Call the main function to start the process
-    generalSearch('the lord of the rings');
-    //facetedSearch('the lord of the rings',null,'J. R. R. Tolkien','George Allen & Unwin','1954')
+    //generalSearch('the lord of the rings');
+    facetedSearch('the lord of the rings',null,'J. R. R. Tolkien','George Allen & Unwin','1954')
   
