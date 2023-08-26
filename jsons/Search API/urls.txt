@@ -4,11 +4,23 @@ Search tips: https://openlibrary.org/search/howto
 
 Example queries:
 
-q.json: https://openlibrary.org/search.json?q=the+lord+of+the+rings
+q.json: 
 
-title.json: https://openlibrary.org/search.json?title=the+lord+of+the+rings
+https://openlibrary.org/search.json?q=<space separated words>
 
-author.json: https://openlibrary.org/search.json?author=tolkien&sort=new
+https://openlibrary.org/search.json?q=the+lord+of+the+rings
+
+title.json: 
+
+https://openlibrary.org/search.json?title=<space separated words>
+
+https://openlibrary.org/search.json?title=the+lord+of+the+rings
+
+author.json: 
+
+https://openlibrary.org/search.json?author=<name>
+
+https://openlibrary.org/search.json?author=tolkien&sort=new
 
 qpage.json: https://openlibrary.org/search.json?q=the+lord+of+the+rings&page=2
 
