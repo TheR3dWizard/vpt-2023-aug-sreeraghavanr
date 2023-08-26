@@ -1,20 +1,39 @@
 // import "./Desktop2.css";
+"use client";
+
+import { React, useState } from "react";
+import { useRouter } from "next/router";
+
+import { generalSearch, fetchData, BookDetails } from "./fetch";
 const SearchPage = () => {
-  const searchResults = [
-    {
-      title: "my book",
-      publish_date: "march 2021",
-      authors: "me",
-      pub_year: "2021",
-      publisher: "not me",
-    },
-  ];
+  const router = useRouter();
+  const [searchResults, setSearchResults] = useState([]);
+  const [simpleSearchQuery, setSimpleSearchQuery] = useState("");
+  const handleSimpleSearch = async () => {
+    try {
+      const results = await generalSearch(simpleSearchQuery);
+      setSearchResults(results);
+    } catch (error) {
+      console.error("An error occurred:", error);
+    }
+  };
+
+  const navigateToBookDetails = (bookId) => {
+    router.push(`/book/${bookId}`);
+  };
+
   return (
     <div className="search-page">
       <div className="search-container">
         <div className="search-simple">
-          <input type="text" placeholder="Search" />
-          <button type="submit">Search</button>
+          <input
+            type="text"
+            placeholder="Search"
+            onChange={(e) => setSimpleSearchQuery(e.target.value)}
+          />
+          <button type="submit" onClick={handleSimpleSearch}>
+            Search
+          </button>
         </div>
         <div className="search-advanced">
           <div className="book-title">
@@ -37,17 +56,21 @@ const SearchPage = () => {
       </div>
       <div className="results-container">
         {searchResults.map((result) => (
-          <div className="book-card" key={result.id}>
-            <img
+          <div
+            className="book-card"
+            key={result.id}
+            onClick={() => navigateToBookDetails(result.id)}
+          >
+            {/* <img
               src={result.coverUrl}
               alt={result.title}
               className="book-cover"
-            />
+            /> */}
             <h2 className="book-title">{result.title}</h2>
             <p className="book-author">By: {result.authors}</p>
-            <p className="book-publisher">Published by: {result.publishers}</p>
+            <p className="book-publisher">Published by: {result.publisher}</p>
             <p className="book-published-year">
-              Published on: {result.publish_date}
+              Published on: {result.pub_year}
             </p>
           </div>
         ))}
