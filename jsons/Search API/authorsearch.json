@@ -1,0 +1,734 @@
+{
+	"numFound": 211,
+	"start": 0,
+	"numFoundExact": true,
+	"docs": [{
+		"key": "OL18319A",
+		"type": "author",
+		"name": "Mark Twain",
+		"alternate_names": ["M. Twain", "Twain", "Twain, Mark (pseud)", "Twain, Mark, 1835-1910", "Mark (Samuel L. Clemens) Twain", "Samuel Langhorne Clemens (Mark Twain)", "Samuel Langhorne Clemens", "Ma\u0304ku Tuein", "Samuel Clemens", "Samuel Langhorne CLEMENS", "Sameul Langhorne Clemens", "Twain, M", "M Twain", "Marc Twain", "mark Twain", "mark-twain", "Samuel L. Clemens", "Mark twain", "Sieur Louis Conte", "Sieur Louis de Conte", "Tu wen (Twain, Mark)", "TWAIN,MARK", "(mei) Ma, ke tu wen (Mark Twain", "Twain Mark", "Mark TWAIN", "Twain - Mark Twain", "Tuwen Make", "Clemens Samuel", "Samuel  L Clemens", "Ma ke tu wen", "Make Tuwen", "(mei) Tuwen, Make", "MakeTuwen", "Ma ke \u00b7 tu wen", "Make.Tuwen", "twain mark", "MARK TWAIN", "Samuel Langhorne 1835-1910 Clemens", "Mark Mark Twain", "mark twain", "Mark, Twain,", "Mark Twain.", "Mr Mark Twain", "Mark Twain Twain", "mark twian", "Mark Twains", "mark mark twain", "Mark Twain Mark Twain", "Mark \"Twain \"", "Twain Mark 1835-1910", "Clemens, Sanuel, (Mark Twain )", "Mark Twain,Mark Twain", "(mei) Ma, ke, tu wen (Twain, Mark)", "Mark (Samuel Clemens) Twain", "Samuel L. Clemens Mark Twain", "Mark Twain (Samuel L Clemens)", "(mei) Ma, ke, tu wen (Twain, Mark", "Mark Twain (Samuel L. Clemens)", "Mark. Twain", "Twain, Mark Pseud.) Clemens, Samuel)", "TWAIN MARK", "Clemens, Samuel L (twain, Mark", "Mark", "Mark Twain Twain", "Mark Twain (Samuel Clemens)", "Marck Twain", "Clemens, Samuel Langhorne (Mark Twain)", "Bradley, Sculley", "Beatty, Richmond Croom", "Long, E Hudson (Editors)", "Twain, Mark", "Mark", "Twain", "Mark Twain and Others", "Clemens Samuel L.", "Mark Twain, SAmuel Clemens", "Clemens, Samuel L.", "Adventures of Huckleberry Finn Twain", "samuel clemens", "\u041c\u0430\u0440\u043a \u0422\u0432\u0435\u043d", "\u041c.\u0422\u0432\u0435\u043d"],
+		"birth_date": "30 November 1835",
+		"death_date": "21 April 1910",
+		"date": "1835~1910",
+		"top_work": "Adventures of Huckleberry Finn",
+		"work_count": 4359,
+		"top_subjects": ["Fiction", "Children's fiction", "19th century", "Twain, mark, 1835-1910", "Mark Twain (1835-1910)", "American literature", "American fiction (fictional works by one author)", "Juvenile fiction", "United States", "History"],
+		"_version_": 1775221187627974657
+	}, {
+		"key": "OL10168410A",
+		"type": "author",
+		"name": "Harly Twain",
+		"top_work": "Guest Book for Holidays",
+		"work_count": 24,
+		"_version_": 1769194104916279309
+	}, {
+		"key": "OL3093616A",
+		"type": "author",
+		"name": "Mark Twain Media",
+		"alternate_names": ["Mark Twain Media Staff", "Mark Twain Media Editors"],
+		"top_work": "Learning about Our Solar System Grades 4  8",
+		"work_count": 23,
+		"top_subjects": ["Study and teaching (Elementary)", "Science", "Orthography and spelling", "Juvenile literature", "Experiments", "English language", "Activity programs"],
+		"_version_": 1773941558844850180
+	}, {
+		"key": "OL12319796A",
+		"type": "author",
+		"name": "Mark Twain",
+		"top_work": "Tragedy of Pudd'nhead Wilson",
+		"work_count": 16,
+		"_version_": 1773806608563830784
+	}, {
+		"key": "OL9227114A",
+		"type": "author",
+		"name": "Tiffany Twain",
+		"top_work": "Common Sense Revival",
+		"work_count": 13,
+		"_version_": 1768017148631842820
+	}, {
+		"key": "OL2741460A",
+		"type": "author",
+		"name": "Shania Twain",
+		"birth_date": "28 August 1965",
+		"top_work": "The Best of Shania Twain",
+		"work_count": 11,
+		"top_subjects": ["Popular music", "Country music", "nyt:combined-print-and-e-book-nonfiction=2011-05-22", "Twain, Shania", "Songs", "Singers, biography", "Shania Twain", "Piano music", "New York Times bestseller", "Guitar music"],
+		"_version_": 1767976500033748999
+	}, {
+		"key": "OL8782623A",
+		"type": "author",
+		"name": "Shania Twain",
+		"top_work": "Shania Twain - Greatest Hits",
+		"work_count": 8,
+		"top_subjects": ["Singers, biography", "Shania Twain", "Country musicians", "Canada", "Biography"],
+		"_version_": 1768013790751752198
+	}, {
+		"key": "OL12210576A",
+		"type": "author",
+		"name": "Twain Mark",
+		"top_work": "Przygody Tomka Sawyera",
+		"work_count": 6,
+		"_version_": 1767963091939622919
+	}, {
+		"key": "OL3107346A",
+		"type": "author",
+		"name": "Twain Braden",
+		"top_work": "Complete Guide to Sailing and Seamanship",
+		"work_count": 6,
+		"top_subjects": ["Sailing", "Pioneers", "Handbooks, manuals", "Farmers", "Biography", "Yachting", "West (u.s.), history", "West (u.s.), description and travel", "West (U.S.)", "Voyages par terre jusqu'au Pacifique"],
+		"_version_": 1767979163685224450
+	}, {
+		"key": "OL7883025A",
+		"type": "author",
+		"name": "M. Twain",
+		"top_work": "The Adventures of Tom Sawyer",
+		"work_count": 5,
+		"top_subjects": ["American literature"],
+		"_version_": 1768008470893690890
+	}, {
+		"key": "OL5648650A",
+		"type": "author",
+		"name": "Matthew Twain",
+		"top_work": "The crazy quilt series, no. 1, vol. 1",
+		"work_count": 4,
+		"_version_": 1767994699508875265
+	}, {
+		"key": "OL12230059A",
+		"type": "author",
+		"name": "Mark Twain (Samuel L. Clemens)",
+		"top_work": "Life on the Mississippi (Mark Twain's Works (Author's National Edition), IX)",
+		"work_count": 5,
+		"_version_": 1767963206477676550
+	}, {
+		"key": "OL11597563A",
+		"type": "author",
+		"name": "twain",
+		"top_work": "A Tramp Abroad (Vol. II)",
+		"work_count": 2,
+		"_version_": 1767959156494434313
+	}, {
+		"key": "OL11452772A",
+		"type": "author",
+		"name": "Mark Twain",
+		"top_work": "The Complete Works of Mark Twain. Authorized Edition. Autobiography. 2 (two) Autobiographical Volumes.",
+		"work_count": 3,
+		"_version_": 1773894664998354944
+	}, {
+		"key": "OL10471525A",
+		"type": "author",
+		"name": "Mark MARK TWAIN",
+		"top_work": "Adventures of Tom Sawyer",
+		"work_count": 3,
+		"_version_": 1767951510842376200
+	}, {
+		"key": "OL1458862A",
+		"type": "author",
+		"name": "David Twain",
+		"birth_date": "1929",
+		"top_work": "Research and human services",
+		"work_count": 2,
+		"top_subjects": ["Social service", "Social sciences", "Social change", "Research", "Community organization", "Community development"],
+		"_version_": 1767968852147175428
+	}, {
+		"key": "OL12236727A",
+		"type": "author",
+		"name": "TWAIN MARK",
+		"top_work": "Historias del Misisipi",
+		"work_count": 2,
+		"_version_": 1767963011513843716
+	}, {
+		"key": "OL10156310A",
+		"type": "author",
+		"name": "Bark Twain",
+		"top_work": "Go the Bark to Work",
+		"work_count": 2,
+		"_version_": 1767948793101156362
+	}, {
+		"key": "OL10329522A",
+		"type": "author",
+		"name": "Mar Twain",
+		"top_work": "Connecticut Yankee in King Arthur's Court Annotated",
+		"work_count": 2,
+		"_version_": 1767950783047794694
+	}, {
+		"key": "OL11428753A",
+		"type": "author",
+		"name": "M. TWAIN",
+		"top_work": "Huckleberry Finn",
+		"work_count": 2,
+		"_version_": 1767957482337992710
+	}, {
+		"key": "OL5040119A",
+		"type": "author",
+		"name": "David Twain",
+		"top_work": "Creating change in social settings",
+		"work_count": 2,
+		"top_subjects": ["Social service", "Social sciences", "Social change", "Social Work", "Social Change", "Service social", "Research", "Organisation communautaire", "Gemeinwesenarbeit", "D\u00e9veloppement communautaire"],
+		"_version_": 1767990713173147648
+	}, {
+		"key": "OL9296727A",
+		"type": "author",
+		"name": "Charles Twain",
+		"top_work": "Five Stages of Greek Religion",
+		"work_count": 2,
+		"_version_": 1768016699158691857
+	}, {
+		"key": "OL3635865A",
+		"type": "author",
+		"name": "Kevin Twain Lowery",
+		"top_work": "Salvaging Wesley's Agenda",
+		"work_count": 2,
+		"top_subjects": ["Wesley, john, 1703-1791", "Religious aspects", "Psychology and religion", "Knowledge, theory of (religion)", "Knowledge, Theory of (Religion)", "Faith", "Emotional maturity", "Christian ethics"],
+		"_version_": 1767982633040478212
+	}, {
+		"key": "OL13081733A",
+		"type": "author",
+		"name": "TWAIN",
+		"work_count": 0,
+		"_version_": 1771758332964503552
+	}, {
+		"key": "OL13116668A",
+		"type": "author",
+		"name": "Twain",
+		"work_count": 0,
+		"_version_": 1775251940413800448
+	}, {
+		"key": "OL12223775A",
+		"type": "author",
+		"name": "Twain M",
+		"top_work": "A Yankee at the Court of Kind Arthur",
+		"work_count": 1,
+		"_version_": 1767963533317767169
+	}, {
+		"key": "OL12206503A",
+		"type": "author",
+		"name": "Mingo Twain",
+		"top_work": "Burning Rock",
+		"work_count": 1,
+		"_version_": 1767963618114011145
+	}, {
+		"key": "OL12439571A",
+		"type": "author",
+		"name": "Ingrid TWAIN",
+		"top_work": "Organiza Tu Economia Dom\u00c9stica",
+		"work_count": 1,
+		"_version_": 1767964351703023617
+	}, {
+		"key": "OL12576121A",
+		"type": "author",
+		"name": "Twain M.",
+		"top_work": "TOM SAWYER C/D Level 5 Primary Rea.",
+		"work_count": 1,
+		"_version_": 1767965317166792714
+	}, {
+		"key": "OL12545244A",
+		"type": "author",
+		"name": "MARCK TWAIN",
+		"top_work": "AVENTURAS DE HUCK, LAS",
+		"work_count": 1,
+		"_version_": 1767965940083851273
+	}, {
+		"key": "OL12768511A",
+		"type": "author",
+		"name": "Twain  Mark",
+		"top_work": "Las Aventuras de Huckleberry Finn",
+		"work_count": 1,
+		"_version_": 1767966570567434240
+	}, {
+		"key": "OL12773115A",
+		"type": "author",
+		"name": "Twain Shania",
+		"top_work": "D'hier \u00e0 Demain",
+		"work_count": 1,
+		"_version_": 1767967115999969281
+	}, {
+		"key": "OL10590685A",
+		"type": "author",
+		"name": "Mrak Twain",
+		"top_work": "Innocents Abroad",
+		"work_count": 1,
+		"_version_": 1767952537544032262
+	}, {
+		"key": "OL10636023A",
+		"type": "author",
+		"name": "Mary Twain",
+		"top_work": "Stop Social Media Body Shaming",
+		"work_count": 1,
+		"_version_": 1767952575736315908
+	}, {
+		"key": "OL10688075A",
+		"type": "author",
+		"name": "Isaiah Twain",
+		"top_work": "Make Better Life Choices",
+		"work_count": 1,
+		"_version_": 1767953226994286597
+	}, {
+		"key": "OL10696753A",
+		"type": "author",
+		"name": "Emerson Twain",
+		"top_work": "Perfect Friend",
+		"work_count": 1,
+		"_version_": 1767953236216512517
+	}, {
+		"key": "OL10483522A",
+		"type": "author",
+		"name": "oo Twain",
+		"top_work": "Life on the Mississippi Annotated",
+		"work_count": 1,
+		"_version_": 1767950775266312193
+	}, {
+		"key": "OL10926194A",
+		"type": "author",
+		"name": "Mock Twain",
+		"top_work": "Adventures of Chuck-Wagon Gin in Hell (an Irreverent and Greatly Improved Alternate Ending to the Adventures of Huckleberry Finn)",
+		"work_count": 1,
+		"_version_": 1767954599982923779
+	}, {
+		"key": "OL10970716A",
+		"type": "author",
+		"name": "Sky Twain",
+		"top_work": "Billionaire Professor",
+		"work_count": 1,
+		"_version_": 1767954647298867202
+	}, {
+		"key": "OL10981354A",
+		"type": "author",
+		"name": "Kennedy Twain",
+		"top_work": "Open Source Technolgy",
+		"work_count": 1,
+		"_version_": 1767954755978526731
+	}, {
+		"key": "OL11100641A",
+		"type": "author",
+		"name": "Opal Twain",
+		"top_work": "Fun Writing Prompts a Workbook to Overcome Writer's Block",
+		"work_count": 1,
+		"_version_": 1767954961954504714
+	}, {
+		"key": "OL11392774A",
+		"type": "author",
+		"name": "Robb Twain",
+		"top_work": "ABC and 123 PUZZLE BOOK for KIDS : ",
+		"work_count": 1,
+		"_version_": 1767957521966825477
+	}, {
+		"key": "OL11556509A",
+		"type": "author",
+		"name": "SHANIA TWAIN",
+		"top_work": "Shania Twain Greatest Hits",
+		"work_count": 1,
+		"_version_": 1767958537384755201
+	}, {
+		"key": "OL11126783A",
+		"type": "author",
+		"name": "Jana Twain",
+		"top_work": "Tu Sens Cette Odeur ? C'est Moi le Super CACA",
+		"work_count": 1,
+		"_version_": 1767956055523852302
+	}, {
+		"key": "OL11150158A",
+		"type": "author",
+		"name": "Stephan Twain",
+		"top_work": "Starving Cancer",
+		"work_count": 1,
+		"_version_": 1767956469773238277
+	}, {
+		"key": "OL11203706A",
+		"type": "author",
+		"name": "Twain Traherne",
+		"top_work": "Psychedelic Nietzsche",
+		"work_count": 1,
+		"_version_": 1767956509627514887
+	}, {
+		"key": "OL11186631A",
+		"type": "author",
+		"name": "Robert Twain",
+		"top_work": "Google Classroom",
+		"work_count": 1,
+		"_version_": 1767956712784920594
+	}, {
+		"key": "OL10487832A",
+		"type": "author",
+		"name": "Anne Twain",
+		"top_work": "Contos Desengavetados",
+		"work_count": 1,
+		"_version_": 1767951311936946176
+	}, {
+		"key": "OL10631550A",
+		"type": "author",
+		"name": "Tenley Twain",
+		"top_work": "&#274;ncanto Coloring Book",
+		"work_count": 1,
+		"_version_": 1767952056006475789
+	}, {
+		"key": "OL3947489A",
+		"type": "author",
+		"name": "Twain Barden",
+		"top_work": "Sailing Techniques",
+		"work_count": 1,
+		"top_subjects": ["Sailing", "Handbooks, manuals"],
+		"_version_": 1767984660453785603
+	}, {
+		"key": "OL546373A",
+		"type": "author",
+		"name": "Jane Twain",
+		"top_work": "Taxed to death",
+		"work_count": 1,
+		"top_subjects": ["Waste in government spending", "Government spending policy", "Fiscal policy", "Connecticut. Governor (1991-1995 : Weicker)", "Connecticut", "Connecticut", "Bureaucracy"],
+		"_version_": 1767993768073494532
+	}, {
+		"key": "OL556188A",
+		"type": "author",
+		"name": "Norman Twain",
+		"top_work": "Lean on me",
+		"work_count": 1,
+		"_version_": 1767994532691968006
+	}, {
+		"key": "OL3131302A",
+		"type": "author",
+		"name": "Cal Twain",
+		"top_work": "Proverse Reflections",
+		"work_count": 1,
+		"_version_": 1767979372939051024
+	}, {
+		"key": "OL10989082A",
+		"type": "author",
+		"name": "Noah Twain",
+		"top_work": "Story of Alexander Stonebridge",
+		"work_count": 1,
+		"_version_": 1767955520257261577
+	}, {
+		"key": "OL8416938A",
+		"type": "author",
+		"name": "Alan Twain",
+		"top_work": "Improve Your Memory in 7 Days",
+		"work_count": 1,
+		"_version_": 1768011309164527616
+	}, {
+		"key": "OL9303807A",
+		"type": "author",
+		"name": "Marc Twain",
+		"top_work": "LES AVENTURES DE TOM SAWYER",
+		"work_count": 1,
+		"_version_": 1768016502656598027
+	}, {
+		"key": "OL9848244A",
+		"type": "author",
+		"name": "Nathaniel Twain",
+		"top_work": "Adventures of Huckleberry Finn Annotated",
+		"work_count": 1,
+		"_version_": 1768019910031572992
+	}, {
+		"key": "OL9803978A",
+		"type": "author",
+		"name": "Twain Conley",
+		"top_work": "Unicorn Blank Cookbook",
+		"work_count": 1,
+		"_version_": 1768019977259974659
+	}, {
+		"key": "OL12980940A",
+		"type": "author",
+		"name": "mark twain",
+		"top_work": "Connecticut Yankee in King Arthur's Court by Mark Twain",
+		"work_count": 1,
+		"_version_": 1769217964341460995
+	}, {
+		"key": "OL12497887A",
+		"type": "author",
+		"name": "Mark Twain",
+		"top_work": "Tom Sawyer Abroad",
+		"work_count": 1,
+		"_version_": 1773080185000689664
+	}, {
+		"key": "OL12201733A",
+		"type": "author",
+		"name": "Mark Twain",
+		"top_work": "Study Guide the Adventures of Huckleberry Finn",
+		"work_count": 1,
+		"_version_": 1773079852045303808
+	}, {
+		"key": "OL11583491A",
+		"type": "author",
+		"name": "Twain, Mark",
+		"top_work": "To Mrs. Fairbanks",
+		"work_count": 1,
+		"_version_": 1773081021540990976
+	}, {
+		"key": "OL12767894A",
+		"type": "author",
+		"name": "Twain, Mark",
+		"top_work": "The Adventures of Tom Sawyer",
+		"work_count": 1,
+		"_version_": 1773841034298523648
+	}, {
+		"key": "OL12775869A",
+		"type": "author",
+		"name": "Twain, Mark",
+		"top_work": "The Portable",
+		"work_count": 1,
+		"_version_": 1773841239809982464
+	}, {
+		"key": "OL12597890A",
+		"type": "author",
+		"name": "Mark Twain",
+		"top_work": "The Prince and the Pauper",
+		"work_count": 1,
+		"_version_": 1773898176043941888
+	}, {
+		"key": "OL11569337A",
+		"type": "author",
+		"name": "Mark Twain",
+		"top_work": "Mark Twain",
+		"work_count": 1,
+		"_version_": 1773897870640939008
+	}, {
+		"key": "OL12936726A",
+		"type": "author",
+		"name": "Mark Twain",
+		"top_work": "Innocents Abroad: Volume 2",
+		"work_count": 1,
+		"_version_": 1773896039236894720
+	}, {
+		"key": "OL12199163A",
+		"type": "author",
+		"name": "Mark Twain",
+		"alternate_names": ["Samuel Clemens"],
+		"top_work": "American Claimant & Other Stories & Sketches",
+		"work_count": 1,
+		"_version_": 1773806930012143616
+	}, {
+		"key": "OL12198229A",
+		"type": "author",
+		"name": "Mark Twain",
+		"alternate_names": ["S. L. Clemens"],
+		"top_work": "A Tramp Abroad",
+		"work_count": 1,
+		"_version_": 1773807203859300352
+	}, {
+		"key": "OL11454236A",
+		"type": "author",
+		"name": "Mark Twain",
+		"top_work": "A TREASURY OF MARK TWAIN",
+		"work_count": 1,
+		"_version_": 1773807777578221568
+	}, {
+		"key": "OL13085740A",
+		"type": "author",
+		"name": "Mark Twain",
+		"top_work": "Tom Sawyer Abroad",
+		"work_count": 1,
+		"_version_": 1773808004395696128
+	}, {
+		"key": "OL12459286A",
+		"type": "author",
+		"name": "Mark Twain",
+		"top_work": "Aventures de Tom Sawyer",
+		"work_count": 1,
+		"_version_": 1773807904131907584
+	}, {
+		"key": "OL12966846A",
+		"type": "author",
+		"name": "Mark TWAIN",
+		"top_work": "Adventures of Tom Sawyer - Unabridged",
+		"work_count": 1,
+		"_version_": 1773892091657584642
+	}, {
+		"key": "OL12281071A",
+		"type": "author",
+		"name": "MARK TWAIN",
+		"top_work": "The Complete Works Of Mark Twain",
+		"work_count": 1,
+		"_version_": 1773892244737097728
+	}, {
+		"key": "OL12988702A",
+		"type": "author",
+		"name": "Mark Twain",
+		"top_work": "Man That Corrupted Hadleyburg and Other Essays and Stories",
+		"work_count": 1,
+		"_version_": 1773846808748883968
+	}, {
+		"key": "OL12793045A",
+		"type": "author",
+		"name": "Mark Twain",
+		"top_work": "The Mysterious Stranger and Other Stories",
+		"work_count": 1,
+		"_version_": 1773846727869071360
+	}, {
+		"key": "OL12986526A",
+		"type": "author",
+		"name": "Mark Twain ",
+		"top_work": "A Tramp Abroad",
+		"work_count": 1,
+		"_version_": 1773846515840712704
+	}, {
+		"key": "OL13087798A",
+		"type": "author",
+		"name": "Mark Twain",
+		"top_work": "The Adventures of Huckleberry Fin (Tom Sawyer's Comrade) (Author's National Edition, The Writings of Mark Twain, Volume 3)",
+		"work_count": 1,
+		"_version_": 1773847830701539328
+	}, {
+		"key": "OL12987973A",
+		"type": "author",
+		"name": "Mark Twain",
+		"top_work": "American Claimant / Connecticut Yankee / Huckleberry Finn / Life on the Mississippi / Man That Corrupted Hadleyburg / Prince and the Pauper / Pudd'nhead Wilson / $30,000 Bequest",
+		"work_count": 1,
+		"_version_": 1773848536137334784
+	}, {
+		"key": "OL12780725A",
+		"type": "author",
+		"name": "Mark Twain",
+		"top_work": "Sherlock Holmes",
+		"work_count": 1,
+		"_version_": 1773841678938931200
+	}, {
+		"key": "OL12545346A",
+		"type": "author",
+		"name": "TWAIN,MARK",
+		"top_work": "DIARIO DE ADAN Y OTROS RELATOS",
+		"work_count": 1,
+		"_version_": 1773843508144111616
+	}, {
+		"key": "OL12781908A",
+		"type": "author",
+		"name": "Mark Twain",
+		"top_work": "Following the Equator: A Journey Around the World",
+		"work_count": 1,
+		"_version_": 1773845001903538176
+	}, {
+		"key": "OL12264726A",
+		"type": "author",
+		"name": "Mark Twain (Samuel Clemens)",
+		"top_work": "The Adventures Of Tom Sawyer",
+		"work_count": 2,
+		"_version_": 1767963029568225290
+	}, {
+		"key": "OL12049039A",
+		"type": "author",
+		"name": "International Mark Twain Society",
+		"top_work": "Robert Frost's sixty-fifth birthday number",
+		"work_count": 2,
+		"top_subjects": ["Robert Frost (1874-1963)", "Edwin Arlington Robinson (1869-1935)", "Criticism and interpretation"],
+		"_version_": 1767962197463400456
+	}, {
+		"key": "OL7080326A",
+		"type": "author",
+		"name": "Mark Twain House & Museum",
+		"top_work": "A. L. Coburn's men of mark",
+		"work_count": 2,
+		"top_subjects": ["Mark Twain (1835-1910)", "Exhibitions", "Portraits", "Portrait photography", "History", "Costume", "Clothing and dress in literature", "Clothing", "Authors", "Artists"],
+		"_version_": 1768003618085011466
+	}, {
+		"key": "OL12374810A",
+		"type": "author",
+		"name": "Roy J. Friedman Mark Twain Twain",
+		"top_work": "Editorial Wild Oats",
+		"work_count": 1,
+		"_version_": 1767964180432814087
+	}, {
+		"key": "OL10170415A",
+		"type": "author",
+		"name": "Mark Twain. / Mark Twain./ Lewis Carroll",
+		"top_work": "M. TWAIN / L. CARROLL.",
+		"work_count": 1,
+		"_version_": 1770569591124131840
+	}, {
+		"key": "OL2261144A",
+		"type": "author",
+		"name": "Mark Twain Nadir",
+		"birth_date": "1913",
+		"top_work": "A compilation of analog transducers",
+		"work_count": 1,
+		"top_subjects": ["Transducers"],
+		"_version_": 1767973914714046466
+	}, {
+		"key": "OL12515474A",
+		"type": "author",
+		"name": "Dixon [Twain] Wecter",
+		"top_work": "Sam Clemens of Hannibal",
+		"work_count": 1,
+		"_version_": 1767965709391888391
+	}, {
+		"key": "OL10694741A",
+		"type": "author",
+		"name": "B. E. Twain",
+		"top_work": "Lost Youth Ranch",
+		"work_count": 1,
+		"_version_": 1767953020503457797
+	}, {
+		"key": "OL10107596A",
+		"type": "author",
+		"name": "by Mark Twain",
+		"top_work": "Prince and the Pauper Illustrated",
+		"work_count": 1,
+		"_version_": 1767949374735777807
+	}, {
+		"key": "OL12049040A",
+		"type": "author",
+		"name": "Mark Twain quarterly",
+		"top_work": "Henry James number",
+		"work_count": 1,
+		"top_subjects": ["Henry James (1843-1916)"],
+		"_version_": 1767962197331279872
+	}, {
+		"key": "OL6530018A",
+		"type": "author",
+		"name": "KEVIN TWAIN LOWERY",
+		"top_work": "MATURITY OF BELIEF: CRITICALLY ASSESSING RELIGIOUS FAITH",
+		"work_count": 1,
+		"_version_": 1768000225021001735
+	}, {
+		"key": "OL6508316A",
+		"type": "author",
+		"name": "Ernest Arlington Twain",
+		"top_work": "Washertown, an American masterpiece!",
+		"work_count": 1,
+		"top_subjects": ["Newton", "Maytag Company", "Iowa", "Fiction", "Ernest Arlington Twain"],
+		"_version_": 1768000977137303556
+	}, {
+		"key": "OL5629115A",
+		"type": "author",
+		"name": "David Coleman Twain",
+		"birth_date": "1929",
+		"top_work": "Factor analysis of a particular aspect of behavioral control",
+		"work_count": 1,
+		"top_subjects": ["Impulse", "Factor analysis"],
+		"_version_": 1767994524416606210
+	}, {
+		"key": "OL7705674A",
+		"type": "author",
+		"name": "Mr Samual Twain",
+		"top_work": "Thinking About the Conscience on Good and Evil",
+		"work_count": 1,
+		"_version_": 1768006788125294595
+	}, {
+		"key": "OL7750064A",
+		"type": "author",
+		"name": "Twain M. Henry",
+		"top_work": "Recipes and Memoirs of a Creole Cook",
+		"work_count": 1,
+		"_version_": 1768008204492472327
+	}, {
+		"key": "OL2417275A",
+		"type": "author",
+		"name": "Mark Twain Davis",
+		"top_work": "Michigan procedure and practice before Circut court commissioners",
+		"work_count": 1,
+		"top_subjects": ["Summary proceedings", "Michigan. Circuit Court Commissioners", "Michigan", "Michigan", "Landlord and tenant", "Forms (Law)", "Building laws"],
+		"_version_": 1767975129376096260
+	}, {
+		"key": "OL2936079A",
+		"type": "author",
+		"name": "Mark Not Twain",
+		"top_work": "Totally Outrageous Bumper-Snickers",
+		"work_count": 1,
+		"top_subjects": ["Humor", "General"],
+		"_version_": 1767977613717929987
+	}, {
+		"key": "OL3734129A",
+		"type": "author",
+		"name": "Twain V. Stasiuk",
+		"top_work": "Alexander's Book of Science Projects",
+		"work_count": 1,
+		"_version_": 1767983432924659716
+	}]
+}
